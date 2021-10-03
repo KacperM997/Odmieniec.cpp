@@ -1,1 +1,2 @@
 C:\Users\Kacper\Desktop\C++\visualstudio\21.09.2021 odmieniec\Debug\21.09.2021 odmieniec.exe
+D:\Repozytoria\Odmieniec.cpp\Debug\21.09.2021 odmieniec.exe
